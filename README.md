@@ -2,7 +2,7 @@
 
 > **Course**: IT5016 – Assessment 3 (Research Repository)  
 > **Purpose**: Demonstrate analysis of programming principles on a small, real project; add clear commentary inside code; document your research and reflections in this README; submit a Word/PDF that includes this content and your repo link.  
-> **Repo URL**: [click](https://github.com/roshanshrestha/cinema-ticket-booking-research)
+> **Repo URL**: [click]([https://github.com/roshanshrestha/cinema-ticket-booking-research](https://github.com/roshandj3445-cell/cinema-ticket-booking-research))
 
 ---
 
