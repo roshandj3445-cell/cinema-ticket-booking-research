@@ -21,23 +21,23 @@ This repository analyzes and documents a **borrowed** beginner project:
 ---
 
 ## What this repository contains
-
+```
 cinema-ticket-booking-research/
 ├─ README.md
 ├─ src/
 │  └─ cinema-ticket-booking/
 │       ├─ main.py
-│       ├─ description.txt
+│       ├─ design.txt
 │       ├─ banking.db
 │       └─ cinema.db
 └─ docs/
 └─ principles-notes.md
-
+```
 
 **Project summary**  
 An app where a user can book a cinema seat **if** the seat is free and **if** the card has enough balance. On success, it generates a **PDF ticket**.
 
-**Objects (from `description.txt`)**  
+**Objects (from `design.txt`)**  
 - `User(name).buy(seat, card)`  
 - `Seat(database, seat_id) → get_price(), is_free(), occupy()`  
 - `Card(database, type, number, cvc, holder) → validate(price)`  
