@@ -52,7 +52,7 @@ An app where a user can book a cinema seat **if** the seat is free and **if** th
 - Packages:
   ```bash
   pip install fpdf2
-````
+```
 
 (`sqlite3` is part of Python’s standard library.)
 
